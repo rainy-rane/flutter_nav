@@ -18,16 +18,6 @@
 
 ---
 
-## 📹 Video Demonstration
-
-<video src="lib/assets/2026-10-08%2015-06-46.mp4" controls="controls" width="100%"></video>
-
-> 🎥 **Direct Video File:** [Click here to view / download the demonstration video (`lib/assets/2026-10-08 15-06-46.mp4`)](lib/assets/2026-10-08%2015-06-46.mp4)
-
----
-
-//
-
 ## ✨ Features
 
 - **Authentication & Validation Flow**:
@@ -91,7 +81,8 @@ flutter_nav/
 ├── macos/                     # macOS desktop support
 ├── lib/
 │   ├── assets/
-│   │   └── 2026-10-08 15-06-46.mp4 # Video demonstration recording
+│   │   ├── 2026-10-08 15-06-46.mp4 # Video demonstration recording
+│   │   └── videoref.png            # UI video demonstration reference
 │   ├── main.dart              # Application entry point & ThemeData configuration
 │   ├── Mainpage.dart          # Login screen & authentication routing
 │   ├── Registerpage.dart      # Registration screen & pop result callback
@@ -179,66 +170,54 @@ flutter_nav/
 
 ---
 
-## 👥 Contributors / Author
+## Demo App with Video
 
-- **Rane** ([@rainy-rane](https://github.com/rainy-rane))
-  - Sole Project Maintainer & Developer
-  - Mobile Programming Project
+### Video Demonstration
+
+<video src="lib/assets/2026-10-08%2015-06-46.mp4" controls="controls" width="100%"></video>
+
+> 🎥 **Video File:** [`lib/assets/2026-10-08 15-06-46.mp4`](lib/assets/2026-10-08%2015-06-46.mp4)
 
 ---
 
-## 🚀 How to Run the App Locally
+## Running the App Locally
 
-Follow these instructions to run this project on your local machine:
+To preview and record the application on an emulator or physical device:
 
-### 1. Prerequisites
-Ensure you have the following installed:
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (version **3.0.0** or newer)
-- [Dart SDK](https://dart.dev/get-dart) (included with Flutter)
-- A browser (Google Chrome / Edge) or an Android/iOS emulator / physical device
-
-Check your setup with:
-```bash
-flutter doctor
-```
-
-### 2. Navigate to Project Directory
-Open your terminal or command prompt and change directory to the project folder:
-```bash
-cd "C:\Users\Rane\Documents\3rd Yr. Projects\Mobile-Programming\flutternav\flutter_nav"
-```
-
-### 3. Install Dependencies
-Download and resolve all required packages:
+### 1. Install dependencies:
 ```bash
 flutter pub get
 ```
 
-### 4. Run the Application
-You can run the application on your preferred target device:
-
+### 2. Run the application:
 - **Run in Google Chrome (Web)**:
   ```bash
   flutter run -d chrome
   ```
-
 - **Run on Windows Desktop**:
   ```bash
   flutter run -d windows
   ```
-
 - **Run on Connected Mobile Device / Emulator**:
   ```bash
   flutter run
   ```
 
-### 5. Run Automated Tests
+### 3. Run automated tests:
 Verify that all navigation flows and widget tests pass:
 ```bash
 flutter test
 ```
 
-### 🔑 Demo Credentials
+### 🔑 Demo Credentials:
 - **Username**: `admin`
 - **Password**: `1234`
 *(Or click the "Autofill demo (admin / 1234)" button directly on the login screen).*
+
+---
+
+## 👥 Contributors / Author
+
+- **Rane** ([@rainy-rane](https://github.com/rainy-rane))
+  - Sole Project Maintainer & Developer
+  - Mobile Programming Project
