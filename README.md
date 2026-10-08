@@ -18,26 +18,13 @@
 
 ---
 
-<!-- ## 📹 Video Demonstration -->
+## 📹 Video Demonstration
 
-<!-- ============================================================== -->
-<!-- PLACE YOUR VIDEO DEMONSTRATION LINK OR EMBED BELOW             -->
-<!-- ============================================================== -->
+<video src="lib/assets/2026-10-08%2015-06-46.mp4" controls="controls" width="100%"></video>
 
-<!-- [![Watch the Demo Video](https://img.shields.io/badge/▶%EF%B8%8F_Watch_Demo_Video-Click_Here-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+> 🎥 **Direct Video File:** [Click here to view / download the demonstration video (`lib/assets/2026-10-08 15-06-46.mp4`)](lib/assets/2026-10-08%2015-06-46.mp4)
 
-> **Note:** Replace `YOUR_VIDEO_LINK_HERE` with your YouTube, Google Drive, or Loom link.
-> If you have a local video or GIF recorded, you can place it in an `assets/` folder and embed it:
->
-> ```markdown
-> ![Demo Walkthrough](./assets/demo.gif)
-> ```
-> Or with HTML:
-> ```html
-> <video src="assets/demo_video.mp4" controls width="100%"></video>
-> ```
-
---- -->
+---
 
 ## ✨ Features
 
@@ -101,6 +88,8 @@ flutter_nav/
 ├── linux/                     # Linux desktop support
 ├── macos/                     # macOS desktop support
 ├── lib/
+│   ├── assets/
+│   │   └── 2026-10-08 15-06-46.mp4 # Video demonstration recording
 │   ├── main.dart              # Application entry point & ThemeData configuration
 │   ├── Mainpage.dart          # Login screen & authentication routing
 │   ├── Registerpage.dart      # Registration screen & pop result callback
