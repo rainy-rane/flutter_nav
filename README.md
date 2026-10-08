@@ -20,13 +20,10 @@
 
 ## 📹 Video Demonstration
 
-<video src="lib/assets/2026-10-08%2015-06-46.mp4" controls="controls" width="100%"></video>
 
-> 🎥 **Direct Video File:** [Click here to view / download the demonstration video (`lib/assets/2026-10-08 15-06-46.mp4`)](lib/assets/2026-10-08%2015-06-46.mp4)
 
----
+https://github.com/user-attachments/assets/546b3235-5e29-4eb7-9d4e-3e6b9ae60c04
 
-//
 
 ## ✨ Features
 
