@@ -18,13 +18,13 @@
 
 ---
 
-## 📹 Video Demonstration
+<!-- ## 📹 Video Demonstration -->
 
 <!-- ============================================================== -->
 <!-- PLACE YOUR VIDEO DEMONSTRATION LINK OR EMBED BELOW             -->
 <!-- ============================================================== -->
 
-[![Watch the Demo Video](https://img.shields.io/badge/▶%EF%B8%8F_Watch_Demo_Video-Click_Here-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+<!-- [![Watch the Demo Video](https://img.shields.io/badge/▶%EF%B8%8F_Watch_Demo_Video-Click_Here-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
 
 > **Note:** Replace `YOUR_VIDEO_LINK_HERE` with your YouTube, Google Drive, or Loom link.
 > If you have a local video or GIF recorded, you can place it in an `assets/` folder and embed it:
@@ -37,7 +37,7 @@
 > <video src="assets/demo_video.mp4" controls width="100%"></video>
 > ```
 
----
+--- -->
 
 ## ✨ Features
 
