@@ -176,16 +176,6 @@ flutter_nav/
 
 ---
 
-## Demo App with Video
-
-### Video Demonstration
-
-<video src="lib/assets/2026-10-08%2015-06-46.mp4" controls="controls" width="100%"></video>
-
-> 🎥 **Video File:** [`lib/assets/2026-10-08 15-06-46.mp4`](lib/assets/2026-10-08%2015-06-46.mp4)
-
----
-
 ## Running the App Locally
 
 To preview and record the application on an emulator or physical device:
